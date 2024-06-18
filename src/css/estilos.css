@@ -142,3 +142,10 @@ body {
   background: url("../imagens/fundo-6.jpg") no-repeat;
 }
 
+.conteudo .logo {
+  background-image: url("../imagens/uchiha-icon.png");
+  height: 100px;
+  width: 230px;
+  background-size: cover;
+  margin-bottom: 30px;
+}
